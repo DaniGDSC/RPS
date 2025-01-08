@@ -1,2 +1,2 @@
 # RPS
-using Makov Chain
+using Makov Chain and RNN
